@@ -25,7 +25,7 @@ NOTE: This program was built for Windows 10 (64 bit) with MinGW toolchain.
 
 # Licenses
 
-#  Etch-C-Sketch License
+##  Etch-C-Sketch License
 
 Etch-C-Sketch - author: Jonathan Gilbert - published: May 2, 2020
 
@@ -47,13 +47,13 @@ freely, subject to the following restrictions:
 
 ---
 
-# ETCH A SKETCH is a registered trademark of SPIN MASTER LTD.
+## ETCH A SKETCH is a registered trademark of SPIN MASTER LTD.
 
 In no way am I attempting to claim ownership of ETCH A SKETCH or intend to infringe on patent or copyright. This is purely a learning exercise by me.
 
 ---
 
-# SDL 2.0
+## SDL 2.0
 
 SDL 2.0 and newer are available under the zlib license : 
 
