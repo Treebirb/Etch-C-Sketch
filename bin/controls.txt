@@ -1,0 +1,9 @@
+z moves left
+x moves right
+, (comma) moves down
+. (period) moves up
++ increases speed
+- decreases speed
+shift clears the screen and centers the cursor
+space clears the screen without moving the cursor
+escape quits
